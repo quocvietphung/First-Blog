@@ -1,4 +1,4 @@
-# First Blog
+# My Blog
 
 This is a simple blog written with HTML, CSS and JavaScript.
 
